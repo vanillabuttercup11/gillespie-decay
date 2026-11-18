@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pytest
+# only needed for the notebook
+jupyter
